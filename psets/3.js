@@ -10,3 +10,6 @@ http://math2.org/math/geometry/circles.htm
 */
 
 // write your solution here...
+var radius = 2;
+console.log("The circucmference is "+Math.round(3.141592*2*radius));
+console.log("The area is "+Math.round(3.141592*radius*radius));
