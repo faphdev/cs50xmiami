@@ -10,3 +10,6 @@ Forgot how old someone is? Calculate it!
 */
 
 // write your solution here...
+var currentYear=2016
+var birthYear=2003
+console.log("They are either "+(currentYear-birthYear)+" or "+(birthYear-currentYear));
